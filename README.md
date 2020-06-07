@@ -31,7 +31,7 @@ En un circuito electrico una malla es cualquier camino cerrado alrededor de un c
 
 Existe una pequeña diferencia entre las definiciones de lazo y malla, debido a que  una malla es es un lazo que no contiene otros lazos o mallas, en cambio un lazo si puede contener una malla o más 
 
-! [EJEMPLO DE MALLAS](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/1e11477a94abdb9c8b8768f103cdb598fe9b5583.png)
+! [EJEMPLO DE MALLAS](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/Mallas%20de%20un%20circuito.png)
 
 | MALLA    | RESULTADOS ANALITICOS | RESULTADOS EXPERIMENTALES | RESULTADOS SIMULADOS |
 |  :---:   |  :---:                |            :---:          |       :---:          |

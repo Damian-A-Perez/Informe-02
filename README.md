@@ -41,6 +41,10 @@ Para encontrar las ecuaciones a utilizar, se usa la ley de voltajes de kirchhoff
 
 4° Material y Equipo Requerido
 
+![Tabla Material Necesario](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/Material%20y%20Equipo.png)
+
+5° Procedimiento 
+
 
 | MALLA    | RESULTADOS ANALITICOS | RESULTADOS EXPERIMENTALES | RESULTADOS SIMULADOS |
 |  :---:   |  :---:                |            :---:          |       :---:          |

@@ -65,3 +65,7 @@ Para un buen montado del circuito dentro del simulador debemos tomar primero la 
 
 
 7° CONCLUSIONES
+
+8° Cronograma
+
+![timeline](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/L2I2.png)

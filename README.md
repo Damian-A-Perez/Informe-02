@@ -18,7 +18,10 @@ Comprobar experimentalmente el Análisis de Mallas.
 
 2.1 Objetivos especificos 
 
-2.1.1:
+2.1.1: Entender como actua la corriente mediante el metodo de mallas.
+2.1.2: Aclarar la forma de usar los instrumentos de medicion.
+2.1.3: Identificar las trayectorias de la corriente.
+2.1.4: Recordar la ley de voltajes de Kirchhoff para el entendimiento del metodo de mallas.
 
 
 3° Marco Teorico 
@@ -65,6 +68,10 @@ Para un buen montado del circuito dentro del simulador debemos tomar primero la 
 
 
 7° CONCLUSIONES
+
+7.1: Las mediciones de amperaje realizadas, concuerdan con los calculos del metodo de mallas, siendo que la implementacion del circuito es la correcta, asi como la utilizacion de los instrumentos de medicion.
+7.2: Reconocemos el metodo de malla como una herramienta para encontar corrientes.
+
 
 8° Cronograma
 

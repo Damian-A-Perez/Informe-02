@@ -57,8 +57,11 @@ Mida cada una de las corrientes de la malla, y anotelas a continuacion
 |    M2    | 2.847[mA]                |2.85[mA]                   |2.847[mA]             |
 |    M3    | 0.488[mA]                |0.488[mA]                  |488.122[uA]           |
 
-![simulacion](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/SIMULADOR.png)
+![simulacion](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/Simulador(2).png)
 
 6 Explicación del codigo fuente 
 
 Para un buen montado del circuito dentro del simulador debemos tomar primero la fuente de voltaje con los datos a proporcionar al circuito correctos, tomar el protoboar y realizar una conexión directa con los polos negativos y positivos de la fuente de poder, realizar un puente de un extremo del protoboarda al otro para asegurar que la corriente  pase por todos los tramos de la plataforma y poder utilizar mas espacio de trabajo, tener en cuenta que cada nodo de conexíon dentro del protoboard, se representa como una linea vertical de espacios para poder conectar los elementos en el nodo respectivo. El circuito requiere dos fuentes de poder, una de 18(v) y otra de 5 (V) al extremo contrario, para ello tomaremos ambas fuentes y conectaremos el tierra en la misma linea de conexión para despues trasladarla al extremo contrario del protoboard, asi tendremos ambas corrientes  circulando por el circuito luego de eso procededemos a conectar los elementos uno a uno simulando el circuito proporcionado anterior mente, tomando en cuenta que la primera resistencia ira conectad al positivo de la primera fuente y la ultima resistencia ire conectada al positivo de la segunda fuente de poder.
+
+
+7° CONCLUSIONES

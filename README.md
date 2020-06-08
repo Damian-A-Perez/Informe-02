@@ -44,8 +44,10 @@ Para encontrar las ecuaciones a utilizar, se usa la ley de voltajes de kirchhoff
 ![Tabla Material Necesario](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/Material%20y%20Equipo.png)
 
 5° Procedimiento 
-
-
+  
+  IMPLEMENTE EL CIRCUITO QUE SE PRESENTA A CONTINUACION
+  
+  !
 | MALLA    | RESULTADOS ANALITICOS | RESULTADOS EXPERIMENTALES | RESULTADOS SIMULADOS |
 |  :---:   |  :---:                |            :---:          |       :---:          |
 |    M1    | 11.455[mA]                |11.5[mA]                   | 11.455[mA]           |

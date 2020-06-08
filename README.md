@@ -47,9 +47,13 @@ Para encontrar las ecuaciones a utilizar, se usa la ley de voltajes de kirchhoff
   
   IMPLEMENTE EL CIRCUITO QUE SE PRESENTA A CONTINUACION
   
-  !
+![Circuito](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/Circuito%20analisis%20de%20mallas.png)
+
+Mida cada una de las corrientes de la malla, y anotelas a continuacion 
+
 | MALLA    | RESULTADOS ANALITICOS | RESULTADOS EXPERIMENTALES | RESULTADOS SIMULADOS |
 |  :---:   |  :---:                |            :---:          |       :---:          |
 |    M1    | 11.455[mA]                |11.5[mA]                   | 11.455[mA]           |
 |    M2    | 2.847[mA]                |2.85[mA]                   |2.847[mA]             |
 |    M3    | 0.488[mA]                |0.488[mA]                  |488.122[uA]           |
+

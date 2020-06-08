@@ -58,4 +58,6 @@ Mida cada una de las corrientes de la malla, y anotelas a continuacion
 |    M3    | 0.488[mA]                |0.488[mA]                  |488.122[uA]           |
 
 ![simulacion](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/SIMULADOR.png)
-![calculos](https://github.com/Damian-A-Perez/Informe-02/blob/master/img/circuito.jpeg)
+
+6 Explicación del codigo fuente 
+

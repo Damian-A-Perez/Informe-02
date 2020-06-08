@@ -57,3 +57,4 @@ Mida cada una de las corrientes de la malla, y anotelas a continuacion
 |    M2    | 2.847[mA]                |2.85[mA]                   |2.847[mA]             |
 |    M3    | 0.488[mA]                |0.488[mA]                  |488.122[uA]           |
 
+!

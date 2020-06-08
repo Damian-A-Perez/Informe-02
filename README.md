@@ -39,6 +39,9 @@ La dirección de las corrientes por cada malla son dependientes de una fuente de
 
 Para encontrar las ecuaciones a utilizar, se usa la ley de voltajes de kirchhoff, la cual nos dice que la sumatoria de voltajes dentro de una malla o lazo, debe ser igual a cero, usando el principio base de la ley de omh, reemplazamos y obtendremos ecuaciones en funcion de la variable I(corriente o intensidad).
 
+4° Material y Equipo Requerido
+
+
 | MALLA    | RESULTADOS ANALITICOS | RESULTADOS EXPERIMENTALES | RESULTADOS SIMULADOS |
 |  :---:   |  :---:                |            :---:          |       :---:          |
 |    M1    | 11.455[mA]                |11.5[mA]                   | 11.455[mA]           |

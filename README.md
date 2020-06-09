@@ -28,7 +28,7 @@ Comprobar experimentalmente el Análisis de Mallas.
 
 METODO DE CORRIENTES DE MALLAS
 
-Es una técnica bien organizada para resolver circuitos y determinar la corriente de cualquier elemento dentro de un circuito plano . Dicha técnica esta basada en la ley de voltajes  de kirchhoff, la ventaja de utilizar esta técnica es que facilita el análisis y produce un numero pequeño de ecuaciones a resolver.  Dicho sistema de ecuaciones a resolver es un sistema de 2E donde E es el numero de elementos dentro del circuito .
+Es una técnica bien organizada para resolver circuitos y determinar la corriente de cualquier elemento dentro de un circuito plano . Dicha técnica esta basada en la ley de voltajes  de kirchhoff, la ventaja de utilizar esta técnica es que facilita el análisis y produce un numero pequeño de ecuaciones a resolver.  Dicho sistema de ecuaciones a resolver es un sistema de 2E donde E es el numero de elementos dentro del circuito.
 
 En un circuito electrico una malla es cualquier camino cerrado alrededor de un circuito. Para formarlo de manera correcta debes partir del terminal de un componente y trazar una linea que conecte el resto de los elementos  hasta llegar de regreso al punto de partida. Dentro de una malla o lazo, el camino solo puede dirigirse por un elemento una sola vez, de modo que el camino no se respita o en algún caso evitar que se forme un numero 8 con los elementos conectados. 
 

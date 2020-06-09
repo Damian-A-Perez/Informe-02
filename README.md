@@ -10,7 +10,7 @@ En esta practica demostraremos el funcionamiento  del análisis de mallas en un 
 
 1 °  Plantamiento del problema
 
-Determinaremos el valor de corriente en cada malla y en cada resistencia, tomando en cuenta que debe cumplirse la igualdad a cero en cada malla, asegurandonos de tener la misma cantidad de ecuaciones que de mallas para poder estableces un sistema y encontrar el valor  exacto de la corriente que atraviesa cada tramo del circuito
+Determinaremos el valor de corriente en cada malla y en cada resistencia, tomando en cuenta que debe cumplirse la igualdad a cero en cada malla, asegurandonos de tener la misma cantidad de ecuaciones que de mallas para poder estableces un sistema y encontrar el valor  exacto de la corriente que atraviesa cada tramo del circuito.
 
 2 ° Ojetivo de la practica 
 

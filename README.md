@@ -70,6 +70,7 @@ Para un buen montado del circuito dentro del simulador debemos tomar primero la 
 7° CONCLUSIONES
 
 7.1: Las mediciones de amperaje realizadas, concuerdan con los calculos del metodo de mallas, siendo que la implementacion del circuito es la correcta, asi como la utilizacion de los instrumentos de medicion.
+
 7.2: Reconocemos el metodo de malla como una herramienta para encontar corrientes.
 
 
